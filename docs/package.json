@@ -1,0 +1,19 @@
+{
+  "name": "AudioEmailer_Guide",
+  "version": "0.0.1",
+  "description": "Documents for Guide",
+  "main": "index.js",
+  "authors": {
+    "name": "Yanran",
+    "email": "yanran_zhang@foxmail.com"
+  },
+  "repository": "https://github.com/zyr147/AudioEmailer_Guide/AudioEmailer_Guide",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
